@@ -1,4 +1,4 @@
-package org.example.cmptutorial
+package org.example.composedemo
 
 import App
 import android.os.Bundle

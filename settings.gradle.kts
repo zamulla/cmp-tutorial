@@ -1,4 +1,4 @@
-rootProject.name = "CMPtutorial"
+rootProject.name = "ComposeDemo"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {

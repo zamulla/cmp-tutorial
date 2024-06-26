@@ -4,7 +4,7 @@ import androidx.compose.ui.window.application
 fun main() = application {
     Window(
         onCloseRequest = ::exitApplication,
-        title = "CMP tutorial",
+        title = "ComposeDemo",
     ) {
         App()
     }
